@@ -1,6 +1,8 @@
 # Learning Next.js
 [Next.js walk through](https://nextjs.org/learn/foundations/about-nextjs)
 
+The walk through is learning the Foundations including About Next.js, From JavaScript to React, From React to Next.js, and How Next.js Works(Optional)
+
 ### Question and Answer Section
 While you are reviewing these, answer these questions below to the best of your ability.
 
